@@ -71,6 +71,7 @@ impl TryFrom<usize> for UserAction {
             0x78 => UserAction::Function(Function::Nine), // VK_F9
             0x79 => UserAction::Function(Function::Ten), // VK_F10
 
+            0x7C => UserAction::ToggleInputMode,        // VK_F13
             0xF3 | 0xF4 => UserAction::ToggleInputMode, // Zenkaku/Hankaku
 
             _ => {
