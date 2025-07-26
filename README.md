@@ -7,12 +7,14 @@
 
 # フォーク元からの相違点
 US配列のキーボードなど、入力切り替えキーのないキーボードに対応するためにF13キーで入力モードを切り替える機能を追加しました。
+
 以下のサイト様でキーの割り当てを変更することができます。お好きなキーにF13を割り当ててご利用ください。
+
 https://map-scan-code.soncho-works.com
 
 
 # インストール方法
-[Release](https://github.com/fkunn1326/azooKey-Windows/releases)から`azookey-setup.exe`をダウンロードし、インストーラーを実行してください。
+[Release](https://github.com/Stella2211/azooKey-Windows/releases)から`azookey-setup.exe`をダウンロードし、インストーラーを実行してください。
 
 # 機能
 
